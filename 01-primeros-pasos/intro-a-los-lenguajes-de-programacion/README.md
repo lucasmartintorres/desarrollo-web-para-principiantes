@@ -5,9 +5,9 @@
  Los lenguajes de programación son idiomas que las computadoras entienden.Al igual que las personas usamos el español o el inglés para comunicarnos, los programadores utilizan lenguajes de programación para dar instrucciones a las computadoras. 
  En esta sección vamos a cubrir los conceptos básicos que se aplican a la mayoría de los lenguajes de programación modernos
 ## LO QUE VAMOS A VER 
- 1- ¿Qué es la programación?
- 2- Tipos de lenguajes de programación
- 3- Elementos básicos de un programa
+ 1. ¿Qué es la programación?
+ 2. Tipos de lenguajes de programación
+ 3. Elementos básicos de un programa
 
 ### ¿Qué es la Programación? 
  La programación, también conocida como codificación, es darle instrucciones a una computadora.Imagina que eres el jefe y la computadora es tu asistente, y necesitas decirle exactamente qué hacer.
