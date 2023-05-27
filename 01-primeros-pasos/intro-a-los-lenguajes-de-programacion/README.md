@@ -38,6 +38,11 @@ El hardware del dispositivo, como el procesador y la memoria, juega un papel fun
 
 ![Texto alternativo](/assets/lenguajes.png "Lenguajes en la computación")
 
+<p align="center">
+  <img src="/assets/lenguajes.png" alt="Lenguajes en la computación" />
+</p>
+
+
 
 
 
