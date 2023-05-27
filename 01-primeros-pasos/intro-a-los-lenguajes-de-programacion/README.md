@@ -43,5 +43,5 @@ El hardware del dispositivo, como el procesador y la memoria, juega un papel fun
 **En resumen:**, los lenguajes de programación, el lenguaje de bajo nivel, el código máquina y el hardware interactúan entre sí para permitir que los programas escritos por los humanos se ejecuten en las computadoras. Los lenguajes de programación actúan como una capa de abstracción que nos permite expresar nuestras ideas de manera más comprensible, y luego se traducen al lenguaje de la máquina para que el hardware pueda llevar a cabo las instrucciones.
 
 <p align="center">
-  <img src="/assets/lenguajes.png" alt="Lenguajes en la computación" />
+  <img src="/assets/lenguajes.png" alt="Lenguajes en la computación" style="width: 350px; height: auto;"/>
 </p>
