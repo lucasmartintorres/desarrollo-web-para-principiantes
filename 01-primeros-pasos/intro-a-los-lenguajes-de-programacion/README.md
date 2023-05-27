@@ -40,8 +40,7 @@ let suma = a + b;
 console.log(suma);
 ~~~
 
-Este código en JavaScript es fácil de entender para nosotros los humanos, ¿verdad? Pero, en realidad, la computadora no entiende directamente este código. Necesitamos convertirlo a código máquina, y aquí es donde entra el lenguaje de bajo nivel o ensamblador.  
-El código en JavaScript se traduce a instrucciones en lenguaje de bajo nivel , que luego se traducen al código máquina que el procesador de la computadora puede entender. El código en bajo nivel resultante podría verse así:
+Este código en JavaScript es fácil de entender para nosotros los humanos, ¿verdad? Pero, en realidad, la computadora no entiende directamente este código. Necesitamos convertirlo a código máquina, y aquí es donde entra el lenguaje de bajo nivel o ensamblador.El código en JavaScript se traduce a instrucciones en lenguaje de bajo nivel , que luego se traducen al código máquina que el procesador de la computadora puede entender. El código en bajo nivel resultante podría verse así:
 
 ~~~
 mov eax, 5  
@@ -56,7 +55,7 @@ Luego, este código en lenguaje de bajo nivel se traduce a código máquina o bi
 
 Finalmente, cuando ejecutamos el programa, el procesador lee y ejecuta las instrucciones en código máquina.
 
-El hardware del dispositivo, como el procesador y la memoria, juega un papel fundamental en la ejecución de estas instrucciones. El hardware está diseñado para comprender y ejecutar el código máquina, siguiendo las instrucciones paso a paso.
+El hardware del dispositivo está diseñado para comprender y ejecutar el código máquina, siguiendo las instrucciones paso a paso.
 
 **En resumen:**, el lenguaje de programación nos permite escribir código en un formato fácil de entender para nosotros los humanos. Luego, ese código se traduce al lenguaje ensamblador, que es más cercano al funcionamiento de la máquina. Finalmente, el código ensamblador se traduce al código máquina, que es lo que el procesador puede ejecutar directamente.
 
