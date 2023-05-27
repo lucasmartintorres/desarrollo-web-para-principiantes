@@ -33,22 +33,23 @@ Existen muchos lenguajes de programación diferentes, cada uno con sus propias c
 Además de los lenguajes de programación, existe un nivel más bajo llamado lenguaje de bajo nivel o ensamblador, y aún más abajo se encuentra el código máquina, también conocido como código binario. Estos lenguajes y códigos interactúan entre sí en conjunto con el hardware del dispositivo. Permíteme explicarlo con más detalle:
 
 Imagina que quieres escribir un programa en un lenguaje de programación como Python para sumar dos números. Aquí tienes un ejemplo en Python:
-
-` 
+~~~
 let a = 5;  
 let b = 3;  
 let suma = a + b;
 console.log(suma);
-`
+~~~
+
 Este código en JavaScript es fácil de entender para nosotros los humanos, ¿verdad? Pero, en realidad, la computadora no entiende directamente este código. Necesitamos convertirlo a código máquina, y aquí es donde entra el lenguaje ensamblador.  
 El código en JavaScript se traduce a instrucciones en lenguaje ensamblador, que luego se traducen al código máquina que el procesador de la computadora puede entender. El código ensamblador resultante podría verse así:
 
-`
+~~~
 mov eax, 5  
 mov ebx, 3  
 add eax, ebx  
-mov ecx, eax  
-`
+mov ecx, eax 
+~~~
+ 
 En este código ensamblador, utilizamos instrucciones especiales como "mov" (mover) y "add" (sumar) para realizar las operaciones necesarias. Estas instrucciones le dicen al procesador qué hacer con los datos.
 
 Luego, este código ensamblador se traduce a código máquina, que es una secuencia de unos y ceros que representa las instrucciones específicas que el procesador ejecutará.
