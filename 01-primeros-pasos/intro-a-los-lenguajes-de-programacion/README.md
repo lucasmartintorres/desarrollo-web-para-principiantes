@@ -9,7 +9,7 @@ En esta sección vamos a cubrir los conceptos básicos que se aplican a la mayor
 2.  Tipos de lenguajes de programación
 3.  Elementos básicos de un programa
 
-## ¿Qué es la Programación?
+## ¿Qué ES LA PROGRAMACIÓN?
 La programación, también conocida como codificación, es darle instrucciones a una computadora. Imagina que eres el jefe y la computadora es tu asistente, y necesitas decirle exactamente qué hacer.  
 Para hacer esto, utilizamos un lenguaje de programación. Es como un idioma especial que las computadoras entienden. En lugar de hablar en español o inglés, escribimos en este lenguaje especial para decirle a la computadora qué hacer.  
 Cuando escribimos un conjunto de instrucciones usando este lenguaje de programación, se le llama programa, programa de computadora, aplicación (app) o ejecutable.
@@ -36,7 +36,7 @@ El hardware del dispositivo, como el procesador y la memoria, juega un papel fun
 
 **En resumen:**, los lenguajes de programación, el lenguaje de bajo nivel, el código máquina y el hardware interactúan entre sí para permitir que los programas escritos por los humanos se ejecuten en las computadoras. Los lenguajes de programación actúan como una capa de abstracción que nos permite expresar nuestras ideas de manera más comprensible, y luego se traducen al lenguaje de la máquina para que el hardware pueda llevar a cabo las instrucciones.
 
-![Texto alternativo](DW-PARA-PRINCIPIANTES/assets/lenguajes.png."Lenguajes en la computación")
+![Texto alternativo](/assets/lenguajes.png "Lenguajes en la computación")
 
 
 
