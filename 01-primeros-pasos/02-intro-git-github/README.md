@@ -55,3 +55,7 @@ git remote add origin URL_DEL_REPOSITORIO
 
 7. **Subir cambios a GitHub:** Envía tus cambios locales al repositorio remoto en GitHub ejecutando
 
+```shell
+git push origin main
+```
+
